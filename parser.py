@@ -1,14 +1,16 @@
 import csv
+import unicodedata
 from html.parser import HTMLParser
 from pathlib import Path
 
 class BookmarksParser(HTMLParser):
-    def __init__(self):
+    def __init__(self, skip_root=True):
         super().__init__()
         self.bookmarks = []
         self.directory_stack = []
         self.current_tag = None
         self.current_directory = None
+        self.skip_root = skip_root
         
     def handle_starttag(self, tag, attrs):
         self.current_tag = tag
@@ -40,9 +42,41 @@ class BookmarksParser(HTMLParser):
             self.directory_stack.append(data)
         elif self.current_tag == 'a':
             # This is a bookmark title
-            self.current_bookmark['title'] = data
-            self.current_bookmark['directory'] = ' > '.join(self.directory_stack)
+            cleaned_title = self.clean_text(data)
+            self.current_bookmark['title'] = cleaned_title
+            dir_stack = self.directory_stack[1:] if self.skip_root and len(self.directory_stack) > 1 else self.directory_stack
+            self.current_bookmark['directory'] = ' > '.join(dir_stack)
             self.bookmarks.append(self.current_bookmark.copy())
+
+    @staticmethod
+    def clean_text(text):
+        """
+        Remove unicode invisible characters and normalize text
+        """
+        # Remove unicode directional marks and other invisible characters
+        # These include: LTR mark, RTL mark, zero-width space, etc.
+        cleaned = ''.join(char for char in text if unicodedata.category(char)[0] != 'C' 
+                         or char in ['\n', '\r', '\t'])
+        
+        # Also remove common invisible unicode characters explicitly
+        invisible_chars = [
+            '\u200e',  # Left-to-right mark
+            '\u200f',  # Right-to-left mark
+            '\u202a',  # Left-to-right embedding
+            '\u202b',  # Right-to-left embedding
+            '\u202c',  # Pop directional formatting
+            '\u202d',  # Left-to-right override
+            '\u202e',  # Right-to-left override
+            '\u200b',  # Zero-width space
+            '\u200c',  # Zero-width non-joiner
+            '\u200d',  # Zero-width joiner
+            '\ufeff',  # Zero-width no-break space
+        ]
+        
+        for char in invisible_chars:
+            cleaned = cleaned.replace(char, '')
+        
+        return cleaned.strip()
 
 def parse_bookmarks(input_file, output_file='bookmarks_data.csv'):
     """
@@ -72,6 +106,7 @@ def parse_bookmarks(input_file, output_file='bookmarks_data.csv'):
     
     return parser.bookmarks
 
+#### Not required as of now
 def parse_all_bookmarks_in_directory(directory_path='bookmarks', output_file='all_bookmarks.csv'):
     """
     Parse all HTML files in a directory and combine into one CSV
@@ -110,12 +145,13 @@ def parse_all_bookmarks_in_directory(directory_path='bookmarks', output_file='al
             writer.writerows(all_bookmarks)
     
     print(f"\n✓ Processed {len(html_files)} file(s)")
-    print(f"✓ Total bookmarks: {len(all_bookmarks)}")
-    print(f"✓ Saved to {output_file}")
+    print(f"[1] Total bookmarks: {len(all_bookmarks)}")
+    print(f"[1] Saved to {output_file}")
     
     return all_bookmarks
 
-# Example usage:
+#####
+
 if __name__ == "__main__":
     # Option 1: Parse a single bookmarks.html file
     bookmarks = parse_bookmarks('bookmarks.html', 'output.csv')
