@@ -1,0 +1,397 @@
+title,link,directory,leaf_dir
+(1) Shyue Ping Ong - Universal Graph Deep Learning Models for Unconstrained Materials Design - YouTube,https://www.youtube.com/watch?v=jnFAiAsaYCM,work > material_science > MLmaterialsScience,MLmaterialsScience
+Machine-Learning-Assisted Materials Discovery from Electronic Band Structure | Journal of Chemical Information and Modeling,https://pubs.acs.org/doi/10.1021/acs.jcim.4c01329,work > material_science > MLmaterialsScience,MLmaterialsScience
+Machine Learning for Predicting the Band Gaps of ABX3 Perovskites from Elemental Properties | The Journal of Physical Chemistry C,https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b11768,work > material_science > MLmaterialsScience,MLmaterialsScience
+"Comparing ANI-2x, ANI-1ccx neural networks, force field, and DFT methods for predicting conformational potential energy of organic molecules | Scientific Reports",https://www.nature.com/articles/s41598-024-62242-5#Fig3,work > material_science > MLmaterialsScience,MLmaterialsScience
+ANI-1: an extensible neural network potential with DFT accuracy at force field computational cost - PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC5414547/,work > material_science > MLmaterialsScience,MLmaterialsScience
+TorchANI: A Free and Open Source PyTorch-Based Deep Learning Implementation of the ANI Neural Network Potentials | Journal of Chemical Information and Modeling,https://pubs.acs.org/doi/10.1021/acs.jcim.0c00451,work > material_science > MLmaterialsScience,MLmaterialsScience
+ANI neural network potentials for small molecule pKa prediction - Physical Chemistry Chemical Physics (RSC Publishing),https://pubs.rsc.org/en/content/articlelanding/2024/cp/d4cp01982b,work > material_science > MLmaterialsScience,MLmaterialsScience
+isayev/ASE_ANI: ANI-1 neural net potential with python interface (ASE),https://github.com/isayev/ASE_ANI,work > material_science > MLmaterialsScience,MLmaterialsScience
+materialsvirtuallab/m3gnet: Materials graph network with 3-body interactions featuring a DFT surrogate crystal relaxer and a state-of-the-art property predictor.,https://github.com/materialsvirtuallab/m3gnet,work > material_science > MLmaterialsScience,MLmaterialsScience
+materialsvirtuallab/megnet: Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals,https://github.com/materialsvirtuallab/megnet,work > material_science > MLmaterialsScience,MLmaterialsScience
+Oleksandr I. Malyi - Google Scholar,https://scholar.google.com/citations?hl=en&user=yuNZc54AAAAJ,work > material_science > scientists,scientists
+Alex Zunger - Google Scholar,https://scholar.google.co.in/citations?user=9I1Ner8AAAAJ&hl=en,work > material_science > scientists,scientists
+"""KS Novoselov"" or ""K Novoselov"" - Google Scholar",https://scholar.google.co.uk/citations?user=1adHiy0AAAAJ&hl=en,work > material_science > scientists,scientists
+Gustavo M. Dalpian - Google Acadêmico,https://scholar.google.com/citations?user=m_TYQogAAAAJ&hl=pt-BR,work > material_science > scientists,scientists
+Ying Wang - Google Scholar,https://scholar.google.com/citations?user=Q6z-_U8AAAAJ&hl=en,work > material_science > scientists,scientists
+Filip Dinic - Google Scholar,https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=v5vkrK4AAAAJ,work > material_science > scientists,scientists
+Shyue Ping Ong - Google Scholar,https://scholar.google.com/citations?user=_NBjk50AAAAJ&hl=en,work > material_science > scientists,scientists
+Tonio Buonassisi - Google Scholar,https://scholar.google.com/citations?user=JlrEuLkAAAAJ&hl=en,work > material_science > scientists,scientists
+Xingang Zhao - Google Scholar,https://scholar.google.com/citations?user=Q0DQGmMAAAAJ&hl=en,work > material_science > scientists,scientists
+Daniel Zügner - Google Scholar,https://scholar.google.de/citations?user=zLYI3MwAAAAJ&hl=de,work > material_science > scientists,scientists
+Nicola Spaldin - Google Scholar,https://scholar.google.de/citations?user=eUfdZowAAAAJ&hl=en,work > material_science > scientists,scientists
+David Vanderbilt - Google Scholar,https://scholar.google.com/citations?user=uY1warIAAAAJ&hl=en,work > material_science > scientists,scientists
+People details - IIT,https://www.iit.it/people-details/-/people/antonio-rossi,work > material_science > scientists,scientists
+Ankit Mishra - Google Scholar,https://scholar.google.com/citations?user=ydKLRHMAAAAJ&hl=en&oi=ao,work > material_science > scientists,scientists
+Databases - JARVIS-Tools,https://pages.nist.gov/jarvis/databases/,work > MS_thesis > materialsDatabase,materialsDatabase
+Topological Materials Database,https://topologicalquantumchemistry.com/#/,work > MS_thesis > materialsDatabase,materialsDatabase
+Alexandria Materials Database,https://alexandria.icams.rub.de/,work > MS_thesis > materialsDatabase,materialsDatabase
+Home | ICSD,https://icsd.products.fiz-karlsruhe.de/,work > MS_thesis > materialsDatabase,materialsDatabase
+Materials Platform for Data Science,https://mpds.io/#start,work > MS_thesis > materialsDatabase,materialsDatabase
+Crystallography Open Database,https://www.crystallography.net/cod/,work > MS_thesis > materialsDatabase,materialsDatabase
+OPTIMADE | Open Databases Integration for Materials Design,https://www.optimade.org/index,work > MS_thesis > materialsDatabase,materialsDatabase
+TopoMat database,https://www.materialscloud.org/discover/topomat,work > MS_thesis > materialsDatabase,materialsDatabase
+Materials Cloud Archive,https://archive.materialscloud.org/record/2025.68,work > MS_thesis > materialsDatabase,materialsDatabase
+CMR — COMPUTATIONAL MATERIALS REPOSITORY,https://cmr.fysik.dtu.dk/,work > MS_thesis > materialsDatabase,materialsDatabase
+basavaraja7371/bandstructure: Bandstructure from VASP,https://github.com/basavaraja7371/bandstructure,work > MS_thesis > bandStructurePlotCodes,bandStructurePlotCodes
+"Enry99/plvasp: Small tool to plot dos, bandstructure and dos+bandstructure with python's matplotlib, using the files generated by vaspkit",https://github.com/Enry99/plvasp,work > MS_thesis > bandStructurePlotCodes,bandStructurePlotCodes
+liming-liu/projected_band_structure: To plot elemental projected band structure for VASP,https://github.com/liming-liu/projected_band_structure,work > MS_thesis > bandStructurePlotCodes,bandStructurePlotCodes
+QijingZheng/pyband: band plot using python matplotlib,https://github.com/QijingZheng/pyband,work > MS_thesis > bandStructurePlotCodes,bandStructurePlotCodes
+lkccrr/bandplot,https://github.com/lkccrr/bandplot,work > MS_thesis > bandStructurePlotCodes,bandStructurePlotCodes
+20110913 – Plot band structure using Gnuplot | Tragody's VASPing Blog,https://tragody.wordpress.com/2011/09/13/20110913-plot-band-structure-using-gnuplot/,work > MS_thesis > bandStructurePlotCodes,bandStructurePlotCodes
+Plotting Band structure and DOS (DFT) in the same graph using GNUPLOT,https://wien2k-algerien1970.blogspot.com/2020/05/plotting-band-structure-and-dos-dft-in.html?m=1,work > MS_thesis > bandStructurePlotCodes,bandStructurePlotCodes
+matlab - Phong shading for shiny Python 3D surface plots - Stack Overflow,https://stackoverflow.com/questions/28232879/phong-shading-for-shiny-python-3d-surface-plots,work > MS_thesis > bandStructurePlotCodes,bandStructurePlotCodes
+streamlit dataset table pagination,https://gemini.google.com/u/2/app/9b814ebbf4fdb85f?hl=en-IN,work > MS_thesis > bandStructurePlotCodes,bandStructurePlotCodes
+"janosh/matterviz: Interactive browser visualizations for materials science: periodic tables, 3d crystal structures, MD trajectories, heatmaps, scatter plots, histograms.",https://github.com/janosh/matterviz,work > MS_thesis > bandStructurePlotCodes,bandStructurePlotCodes
+"How to determine NBANDS for SCF, bandstructure and DOS calculations in VASP? | ResearchGate",https://www.researchgate.net/post/How_to_determine_NBANDS_for_SCF_bandstructure_and_DOS_calculations_in_VASP,work > MS_thesis > MatSciConcepts,MatSciConcepts
+Linear vs Non-linear Response,https://chatgpt.com/c/6879cdde-6d08-8008-9dff-77138ccba2f3,work > MS_thesis > MatSciConcepts,MatSciConcepts
+materials design - What is band inversion and how to recognize it in band structure? - Matter Modeling Stack Exchange,https://mattermodeling.stackexchange.com/questions/909/what-is-band-inversion-and-how-to-recognize-it-in-band-structure,work > MS_thesis > MatSciConcepts,MatSciConcepts
+AI meets materials discovery - Microsoft Research,https://www.microsoft.com/en-us/research/story/ai-meets-materials-discovery/,work > MS_thesis > MatSciConcepts,MatSciConcepts
+MatterGen: A new paradigm of materials design with generative AI  - Microsoft Research,https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/,work > MS_thesis > MatSciConcepts,MatSciConcepts
+AI4Science to empower the fifth paradigm of scientific discovery - Microsoft Research,https://www.microsoft.com/en-us/research/blog/ai4science-to-empower-the-fifth-paradigm-of-scientific-discovery/,work > MS_thesis > MatSciConcepts,MatSciConcepts
+Novartis empowers scientists with AI to speed the discovery and development of breakthrough medicines - Source,https://news.microsoft.com/source/features/digital-transformation/novartis-empowers-scientists-ai-speed-discovery-development-breakthrough-medicines/,work > MS_thesis > MatSciConcepts,MatSciConcepts
+microsoft/mattergen: Official implementation of MatterGen -- a generative model for inorganic materials design across the periodic table that can be fine-tuned to steer the generation towards a wide range of property constraints.,https://github.com/microsoft/mattergen?tab=readme-ov-file#evaluation,work > MS_thesis > MatSciConcepts,MatSciConcepts
+"microsoft/mattersim: MatterSim: A deep learning atomistic model across elements, temperatures and pressures.",https://github.com/microsoft/mattersim,work > MS_thesis > MatSciConcepts,MatSciConcepts
+Home,https://chengcheng-xiao.github.io/,work > MS_thesis > MatSciConcepts,MatSciConcepts
+VASP tools - Peter Larsson,https://www.nsc.liu.se/~pla/vasptools/,work > MS_thesis > DFTtools,DFTtools
+Sumo — sumo 2.3.12 documentation,https://smtg-bham.github.io/sumo/index.html,work > MS_thesis > DFTtools,DFTtools
+Jesús Carrete Montaña / BoltzTraP2 · GitLab,https://gitlab.com/sousaw/BoltzTraP2,work > MS_thesis > DFTtools,DFTtools
+python - How to generate the high symmetry paths for band structure calculations? - Matter Modeling Stack Exchange,https://mattermodeling.stackexchange.com/questions/6356/how-to-generate-the-high-symmetry-paths-for-band-structure-calculations,work > MS_thesis > DFTtools,DFTtools
+k-space paths · Brillouin.jl,https://thchr.github.io/Brillouin.jl/stable/kpaths/#Band-structure,work > MS_thesis > DFTtools,DFTtools
+Is there any software or Python library for visualizing higher-order Brillouin Zones of standard lattices? - Matter Modeling Stack Exchange,https://mattermodeling.stackexchange.com/questions/12746/is-there-any-software-or-python-library-for-visualizing-higher-order-brillouin-z,work > MS_thesis > DFTtools,DFTtools
+What are the freely available crystal-structure visualization softwares? - Matter Modeling Stack Exchange,https://mattermodeling.stackexchange.com/questions/467/what-are-the-freely-available-crystal-structure-visualization-softwares,work > MS_thesis > DFTtools,DFTtools
+List of freely available molecular or crystal structure visualization software - BragitOff.com,https://www.bragitoff.com/2022/12/list-of-freely-available-molecular-or-crystal-structure-visualization-software/,work > MS_thesis > DFTtools,DFTtools
+tobycrisford.github.io/bravais-lattice-fermi-surfaces/,https://tobycrisford.github.io/bravais-lattice-fermi-surfaces/,work > MS_thesis > DFTtools,DFTtools
+Vesta_manual.pdf,https://www.xray.cz/kryst/Vesta_manual.pdf,work > MS_thesis > DFTtools,DFTtools
+Building things — ASE documentation,https://wiki.fysik.dtu.dk/ase/ase/build/build.html,work > MS_thesis > DFTtools,DFTtools
+easyunfold Documentation — easyunfold,https://smtg-bham.github.io/easyunfold/,work > MS_thesis > DFTtools,DFTtools
+Home | MatGL,https://matgl.ai/,work > MS_thesis > DFTtools,DFTtools
+Wannier Berri — Wannier Berri documentation,https://wannier-berri.org/,work > MS_thesis > DFTtools,DFTtools
+Millions of new materials discovered with deep learning - Google DeepMind,https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/,work > MS_thesis > MatSciPaper,MatSciPaper
+"SciPost: SciPost Chem. 1, 005 (2022) - CrystalNets.jl: Identification of Crystal Topologies",https://scipost.org/10.21468/SciPostChem.1.2.005,work > MS_thesis > MatSciPaper,MatSciPaper
+photon-git/AlloyGAN,https://github.com/photon-git/AlloyGAN?utm_source=catalyzex.com,work > MS_thesis > MatSciPaper,MatSciPaper
+Crystal structure prediction with machine learning-based element substitution - ScienceDirect,https://www.sciencedirect.com/science/article/pii/S0927025622002555?ref=pdf_download&fr=RR-2&rr=96b011642a053f47,work > MS_thesis > MatSciPaper,MatSciPaper
+z2pack_chapter.pdf,https://z2pack.greschd.ch/en/latest/_downloads/75eec5bb13ab1589c8b65a3cc3781afd/z2pack_chapter.pdf,work > MS_thesis > MatSciPaper,MatSciPaper
+Scaling deep learning for materials discovery | Nature,https://www.nature.com/articles/s41586-023-06735-9,work > MS_thesis > MatSciPaper,MatSciPaper
+"""Ideal"" Topological Heavy Fermion Model in Two-dimensional Moir\'e Heterostructures with Type-II Band Alignment",https://arxiv.org/pdf/2507.06168,work > MS_thesis > MatSciPaper,MatSciPaper
+OneDrive,https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy8wYzk3NmJkMTBjNzRkYjdmL0VlR2ktazZQeEFGQ2h0NnF0LTBiYVRNQnVvVVpTRnhHUzkxTXRmWVNBaTVxdFE&cid=0C976BD10C74DB7F&id=C976BD10C74DB7F%21s4efaa2e1c48f420186deaab7ed1b6933&parId=C976BD10C74DB7F%21s14931dbc7e254e19acf1a5ac7b72b41a&o=OneUp,work > MS_thesis > MatSciPaper,MatSciPaper
+Google Gemini,https://gemini.google.com/u/2/app/4ae2c87fbbd6b8da?hl=en-IN,work > MS_thesis > MatSciPaper,MatSciPaper
+High-throughput computation and machine learning of refractive index of polymers | Applied Physics Letters | AIP Publishing,https://pubs.aip.org/aip/apl/article-abstract/123/12/121901/2911579/High-throughput-computation-and-machine-learning?redirectedFrom=fulltext,work > MS_thesis > MatSciPaper,MatSciPaper
+Topology meets time-reversal symmetry breaking in FeSe1−xTex superconductors | Nature Communications,https://www.nature.com/articles/s41467-025-61651-y,work > MS_thesis > MatSciPaper,MatSciPaper
+2407.06489,https://arxiv.org/pdf/2407.06489,work > MS_thesis > MatSciPaper,MatSciPaper
+Elf autoencoder: unsupervised exploration of flat-band materials using electronic band structure fingerprints,https://arxiv.org/html/2406.11967v1,work > MS_thesis > MatSciPaper,MatSciPaper
+Spin-dependent scattering induced negative magnetoresistance in topological insulator Bi2Te3 nanowires,file:///home/rudra/Downloads/s41598-019-44265-5.pdf,work > MS_thesis > MatSciPaper,MatSciPaper
+Spin-dependent scattering induced negative magnetoresistance in topological insulator Bi2Te3 nanowires | Scientific Reports,https://www.nature.com/articles/s41598-019-44265-5,work > MS_thesis > MatSciPaper,MatSciPaper
+Adam Zweiger,https://adamzweiger.github.io/,coding > machineLearning > people/organizations,people/organizations
+Wes McKinney,https://wesmckinney.com/,coding > machineLearning > people/organizations,people/organizations
+John Schulman's Homepage,http://joschu.net/,coding > machineLearning > people/organizations,people/organizations
+David Luan,https://www.davidluan.com/,coding > machineLearning > people/organizations,people/organizations
+matt harrison - Google Search,https://www.google.com/search?q=matt+harrison&oq=matt+harrison&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEC4YgAQyBwgHEAAYgAQyBwgIEC4YgAQyBggJEC4YQNIBCDM1NzhqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8,coding > machineLearning > people/organizations,people/organizations
+Greg Brockman - Google Search,https://www.google.com/search?sca_esv=09165a706269a754&sxsrf=AE3TifOeMpiXq_IIVElVV0N4ktfn6MuKKA:1760454830531&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNYXgbJimJSCbZ1sC-jeAy4jOXyfmLJtJf74A2UroljyVGLBV1Z92Iu8tmh-uKEpETGiZSISnQDreBoSSuSBBPdbodjU_M9N4ihqpu6Vu1Qs8MopCW8mFgFVImKYvnadJaUlLYRApW9eLbfR5YZMC6AQgs3pbAmPzdxOHHc5tmACLMvTawwWsyCwn8bkByqGzutcI8rYAdId6phAqOPiXlnsnwTAefBpbn-lgiyTW_4ESq0Ylz5NMd4YBifjghjT0d4WgtP8%3D&q=Greg+Brockman&sa=X&ved=2ahUKEwiDlMSm_aOQAxXHka8BHW-TE3gQs9oBKAB6BAgHEAY&biw=1879&bih=1007&dpr=1,coding > machineLearning > people/organizations,people/organizations
+Mira Murati - Google Search,https://www.google.com/search?sa=X&sca_esv=09165a706269a754&biw=1879&bih=1007&sxsrf=AE3TifMA5g8ta9ARY_fCUCWU0SYm6niiCw:1760454847172&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNWLQBNYrwBVTOMhvJHByX-5a5_Gbw0Rr76XF_7U-heAjt-vdkHhz-o01bihHpG6FL-IrSJ8etI7Q3IRxtjPiLybN3T_8LKKSxTZnvStuS3cwrm5OW1YgQAc9so5kPKhmTI-2eNnLBTsX6TvJFUdwih27Lqny1iNDBNXZRnYR7istd1DhD8JDDsJLdGYKQ1Mvqum9wS5XebDlNvGAeuxQ_LOH1fyiZ9iLtRKLpUxfjNgSKS0SrviH1agSGRDeisexRan3E3J6sZGuJBk63K1msqAn1zEwsIGJI8JIjPb_rJH9z2Zy-Q%3D%3D&q=Mira+Murati&ved=2ahUKEwiMhbyu_aOQAxULcvUHHfTMELwQ-BZ6BAgyEBA&stq=1&cs=0&lei=v2juaMypCovk1e8P9JnD4As,coding > machineLearning > people/organizations,people/organizations
+Sam Altman - Google Search,https://www.google.com/search?sa=X&sca_esv=09165a706269a754&biw=1879&bih=1007&sxsrf=AE3TifMA5g8ta9ARY_fCUCWU0SYm6niiCw:1760454847172&si=AMgyJEtRPX4ld4pdQeltMBlsXK6YnLg9be4xryEBJwXFHLOO-CeRslM5NPp6AGNPGAFdzfBc906lDrKsheh_WJ9IbLwsMCnO_GnDWMAf9XHV6TzBUcot1Re-SfG9JjGjojak7rsuLiOdgpF-FSwZ_CDvd0Weqd7xDHlHjU2x7h_fM260Lhclt6M3-ZmxHMo00Yl3o_S5x7qRALQ36IUf_kMNqvzbljNlVCWoTX0ZPJp8CqK8lwHxdrtSmYr7amwp8IqWDHjb43gweusrChcRLNE5HiKLA6cNWFK_fmJsmPduhoGPEOihPvmilVztW6M_7tf93mDqTdXP6kX-pNy_YN98gr1IfnCUIA%3D%3D&q=Sam+Altman&ved=2ahUKEwiMhbyu_aOQAxULcvUHHfTMELwQ-BZ6BAgyEAs&stq=1&cs=0&lei=zWjuaK_VKsLr1e8Pj6vq4A0,coding > machineLearning > people/organizations,people/organizations
+Geoffrey Hinton - Google Search,https://www.google.com/search?sa=X&sca_esv=09165a706269a754&biw=1879&bih=1007&sxsrf=AE3TifMA5g8ta9ARY_fCUCWU0SYm6niiCw:1760454847172&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35AcwE6T0Q88oSfR5GwmayfF3P-CWCHQZDcViB57epX60wDTKxb9SVqZn6pvQ_H2AYkXZSfEihDDDhT4pu_Zdo8eJpVnNzuTyWITCRONZkH1kt4ubDyYZxkUKr3AODG7rFoq-hT9xXw6igEXdkPy9m6UE9Ppc7l3w9KQiq_qkure33ROPiEuc6faYWzZtGsoTtsXewIicAijorwMaZ2rb49FqXPe3SPeKdlSLY-xVgbiTeg_ux7DIlJs3mkLHp2N-U75mlSfR2uuWZ4jhcAcAeMxaUW3bMm7x_7GVOoylk0ixVrbnCg%3D%3D&q=Geoffrey+Hinton&ved=2ahUKEwiMhbyu_aOQAxULcvUHHfTMELwQ-BZ6BAgyEBU&stq=1&cs=0&lei=02juaIvNDdHr1e8PuKulkAc,coding > machineLearning > people/organizations,people/organizations
+Dario Amodei - Google Search,https://www.google.com/search?sa=X&sca_esv=09165a706269a754&biw=1879&bih=1007&sxsrf=AE3TifMA5g8ta9ARY_fCUCWU0SYm6niiCw:1760454847172&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNSR3EshP1Qkz6qhsmWiwCEiYPNDgXrhqzbD_D-ZeatuzpkqbeGcFmKzK13G4iMHRpwh4fC9-Jh104UiO1Vk6S5qQ4ocCu7ZZkXBwET6X9ayUGbGqe9LLtRgwmgHmZTf72-0OHDhg3BiZqhaxjkBEDsfb0rjzjM7BUPLCGPKXi3hiMhh5aZivQ_lbVDL9FmlJ_c2jYQ2nYlw2ha08xnNdJBNM-N1IBQii7zVCpV0p0nWQXrNFJ8Z0OPbMooAqDH9SPjFAIolwbNOAHU-qVsF2z7ZRXll04FaN2kVc8nyqb9bjYMEmnw%3D%3D&q=Dario+Amodei&ved=2ahUKEwiMhbyu_aOQAxULcvUHHfTMELwQ-BZ6BAgyEC4&stq=1&cs=0&lei=62juaMmtBojo1e8P_O7AgAI,coding > machineLearning > people/organizations,people/organizations
+Trapit Bansal,https://trapitbansal.com/,coding > machineLearning > people/organizations,people/organizations
+gary bradski - Google Search,https://www.google.com/search?q=gary+bradski&oq=gary+bradski&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yBggJEC4YQNIBCDI1ODZqMGo5qAIAsAIB&sourceid=chrome&ie=UTF-8,coding > machineLearning > people/organizations,people/organizations
+Sebastian Raschka,https://sebastianraschka.com/,coding > machineLearning > people/organizations,people/organizations
+Home | Andrew Ng,https://www.andrewng.org/,coding > machineLearning > people/organizations,people/organizations
+Dibya Ghosh [machine learning] [phd] [connection],https://dibyaghosh.com/#collapseExample,coding > machineLearning > people/organizations,people/organizations
+Nabeel S. Qureshi,https://nabeelqu.co/,coding > machineLearning > people/organizations,people/organizations
+Hazy Research,https://hazyresearch.stanford.edu/,coding > machineLearning > people/organizations,people/organizations
+"Polo Club of Data Science @ Georgia Tech: Human-Centered AI, Deep Learning Interpretation & Visualization, Cybersecurity, Large Graph Visualization and Mining | Georgia Tech | Atlanta, GA 30332, United States",https://poloclub.github.io/,coding > machineLearning > people/organizations,people/organizations
+ISP - Image and Signal Processing group,https://isp.uv.es/index.html,coding > machineLearning > people/organizations,people/organizations
+Accueil | Inria,https://www.inria.fr/en,coding > machineLearning > people/organizations,people/organizations
+Lu Qi (computer scientist) - Wikipedia,https://en.wikipedia.org/wiki/Lu_Qi_(computer_scientist),coding > machineLearning > people/organizations,people/organizations
+Yann LeCun - Wikipedia,https://en.m.wikipedia.org/wiki/Yann_LeCun,coding > machineLearning > people/organizations,people/organizations
+peter thiel - Google Search,https://www.google.com/search?q=peter+thiel&oq=peter+thiel+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIRCAEQABhDGEYY-wEYgAQYigUyDAgCEAAYQxiABBiKBTIGCAMQABgDMgwIBBAAGEMYgAQYigUyBwgFEAAYgAQyCggGEAAYsQMYgAQyBggHEAAYAzIHCAgQABiABDIGCAkQLhhA0gEIMzQ3MWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8,coding > machineLearning > people/organizations,people/organizations
+Alex Karp - Google Search,https://www.google.com/search?sca_esv=ba24c2d2484ecd3d&sxsrf=AE3TifMxNPcEGKmh-96c8sd5_rZCKS-M7Q:1756318559400&si=AMgyJEt4gI5NMInIh8VmHjRSOVu859gNGSZ55IotVhigj4pwJ0D8PZqAoUEALmvIlETfFTnryJE8rYX5pjw04EeUu3J8W8rYarz_DKEZrUDpczg1X4MifLfVi3eEJCWwBn0FPt0UhaQ-2DQYUPNNQJtFIrSnXvXkjxC9qKS0e3AahRnC5BuP8LgazSQ_1GUTpHK6gncgZIdC&q=Alex+Karp&sa=X&ved=2ahUKEwjcwOG-zKuPAxVjdvUHHZmoPIsQs9oBKAB6BAgJEAo&biw=1879&bih=1007&dpr=1,coding > machineLearning > people/organizations,people/organizations
+jack dorsey - Google Search,https://www.google.com/search?gs_ssp=eJzj4tLP1TcwqbRIyjMzYPTizkpMzlZIyS8qTq0EAFzdB9A&q=jack+dorsey&oq=jack+dorsey&gs_lcrp=EgZjaHJvbWUqEggBEC4YQxiDARixAxiABBiKBTIVCAAQABhDGIMBGOMCGLEDGIAEGIoFMhIIARAuGEMYgwEYsQMYgAQYigUyEggCEAAYQxiDARixAxiABBiKBTIHCAMQABiABDIGCAQQABgDMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEMgcIChAAGIAEMgcICxAAGIAEMgcIDBAAGIAEMgcIDRAAGIAEMgcIDhAAGIAE0gEIMzIzM2owajmoAgCwAgE&sourceid=chrome-mobile&ie=UTF-8,coding > machineLearning > people/organizations,people/organizations
+Mirkovic,https://www.mirkovic.no/,coding > machineLearning > people/organizations,people/organizations
+Weights & Biases: The AI Developer Platform,https://wandb.ai/site/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+TensorRT SDK | NVIDIA Developer,https://developer.nvidia.com/tensorrt,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Matrix Multiplication,http://matrixmultiplication.xyz/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction — umap 0.5.8 documentation,https://umap-learn.readthedocs.io/en/latest/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Gradio,https://www.gradio.app/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Open Source AI – Open Source Initiative,https://opensource.org/ai,coding > machineLearning > libraries/tools/models,libraries/tools/models
+tomgoldstein/loss-landscape: Code for visualizing the loss landscape of neural nets,https://github.com/tomgoldstein/loss-landscape?tab=readme-ov-file,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Mandelbrot Set Explorer,https://mandelbrot.site/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+"google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.",https://github.com/google-ai-edge/mediapipe,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Thinking Machines Lab,https://thinkingmachines.ai/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+AutoML | AutoML,https://www.automl.org/automl/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Kumo: AI models for relational data,https://kumo.ai/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Qwen/Qwen-Image-Edit · Hugging Face,https://huggingface.co/Qwen/Qwen-Image-Edit,coding > machineLearning > libraries/tools/models,libraries/tools/models
+"liugangcode/torch-molecule: torch-molecule is a deep learning package for molecular discovery, designed with an sklearn-style interface for property prediction, inverse design and representation learning.",https://github.com/liugangcode/torch-molecule,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Pytorch Image Models (timm) | timmdocs,https://timm.fast.ai/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Mamba: Linear-Time Sequence Modeling with Selective State Spaces | OpenReview,https://openreview.net/forum?id=AL1fq05o7H,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Structured State Spaces: A Brief Survey of Related Models · Hazy Research,https://hazyresearch.stanford.edu/blog/2022-01-14-s4-2,coding > machineLearning > libraries/tools/models,libraries/tools/models
+facebookresearch/blt: Code for Byte Latent Transformer research paper,https://github.com/facebookresearch/blt,coding > machineLearning > libraries/tools/models,libraries/tools/models
+MiniMax AI ｜ AGI-Powered Foundation Models & Voice/Text/Image/Video Tools,https://www.minimaxi.com/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Galileo: Learning Global & Local Features of Many Remote Sensing Modalities,https://arxiv.org/pdf/2502.09356,coding > machineLearning > libraries/tools/models,libraries/tools/models
+MediaPipe Solutions guide  |  Google AI Edge  |  Google AI for Developers,https://ai.google.dev/edge/mediapipe/solutions/guide,coding > machineLearning > libraries/tools/models,libraries/tools/models
+vLLM,https://docs.vllm.ai/en/latest/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+XGBoost Documentation — xgboost 3.1.1 documentation,https://xgboost.readthedocs.io/en/stable/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Gymnasium Documentation,https://gymnasium.farama.org/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+PyG Documentation — pytorch_geometric documentation,https://pytorch-geometric.readthedocs.io/en/latest/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+MLflow,https://mlflow.org/,coding > machineLearning > libraries/tools/models,libraries/tools/models
+OpenXLA Project,https://openxla.org/xla,coding > machineLearning > libraries/tools/models,libraries/tools/models
+TensorBoard  |  TensorFlow,https://www.tensorflow.org/tensorboard,coding > machineLearning > libraries/tools/models,libraries/tools/models
+ElevenLabs UI: Open-source agent components for the web,https://elevenlabs.io/blog/elevenlabs-ui,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Flux,https://huggingface.co/docs/diffusers/main/api/pipelines/flux,coding > machineLearning > libraries/tools/models,libraries/tools/models
+GitHub - jayin92/Skyfall-GS: Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery,https://github.com/jayin92/skyfall-gs,coding > machineLearning > libraries/tools/models,libraries/tools/models
+Simon Willison’s Weblog,https://simonwillison.net/,coding > machineLearning > articles,articles
+On the Biology of a Large Language Model [llm] [paper] [anthropic],https://transformer-circuits.pub/2025/attribution-graphs/biology.html,coding > machineLearning > articles,articles
+What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings [readlater],https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/,coding > machineLearning > articles,articles
+Radek Osmulski,https://radekosmulski.com/,coding > machineLearning > articles,articles
+FunSearch: Making new discoveries in mathematical sciences using Large Language Models - Google DeepMind [readlater],https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/,coding > machineLearning > articles,articles
+AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms - Google DeepMind [readlater],https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/,coding > machineLearning > articles,articles
+SensorLM: Learning the language of wearable sensors,https://research.google/blog/sensorlm-learning-the-language-of-wearable-sensors/,coding > machineLearning > articles,articles
+How We Reduced LLM Costs by 90% with 5 Lines of Code | Towards Data Science,https://towardsdatascience.com/how-we-reduced-llm-cost-by-90-with-5-lines-of-code/,coding > machineLearning > articles,articles
+Towards Data Science | blog | article,https://towardsdatascience.com/,coding > machineLearning > articles,articles
+Reflections on OpenAI,https://calv.info/openai-reflections,coding > machineLearning > articles,articles
+reflections on palantir - Nabeel S. Qureshi,https://nabeelqu.co/reflections-on-palantir,coding > machineLearning > articles,articles
+The first AI model based on Yann LeCun’s vision for more human-like AI,https://ai.meta.com/blog/yann-lecun-ai-model-i-jepa/,coding > machineLearning > articles,articles
+AI 2027,https://ai-2027.com/,coding > machineLearning > articles,articles
+AI Futures Project | The AI Futures Project is a 501(c)(3) nonprofit research organization (EIN 99-4320292). We are funded entirely by charitable donations and grants.,https://ai-futures.org/,coding > machineLearning > articles,articles
+The “AI 2027” Scenario: How realistic is it?,https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic,coding > machineLearning > articles,articles
+AI 2027: What Superintelligence Looks Like — LessWrong,https://www.lesswrong.com/posts/TpSFoqoG2M5MAAesg/ai-2027-what-superintelligence-looks-like-1,coding > machineLearning > articles,articles
+AlphaFold - Google DeepMind,https://deepmind.google/science/alphafold/,coding > machineLearning > articles,articles
+NVIDIA AI Released Jet-Nemotron: 53x Faster Hybrid-Architecture Language Model Series that Translates to a 98% Cost Reduction for Inference at Scale - MarkTechPost,https://www.marktechpost.com/2025/08/26/nvidia-ai-released-jet-nemotron-53x-faster-hybrid-architecture-language-model-series-that-translates-to-a-98-cost-reduction-for-inference-at-scale/,coding > machineLearning > articles,articles
+Highly accurate protein structure prediction with AlphaFold | Nature,https://www.nature.com/articles/s41586-021-03819-2,coding > machineLearning > articles,articles
+AlexNet and ImageNet: The Birth of Deep Learning | Pinecone,https://www.pinecone.io/learn/series/image-search/imagenet/,coding > machineLearning > articles,articles
+Windows On Theory – A Research Blog,https://windowsontheory.org/page/2/,coding > machineLearning > articles,articles
+Jane Street Blog,https://blog.janestreet.com/,coding > machineLearning > articles,articles
+(1) Week 1 of me Studying Machine Learning - YouTube,https://www.youtube.com/watch?v=nvpZw6o4RTI,coding > machineLearning > articles,articles
+How to Save Trained Model in Python,https://neptune.ai/blog/saving-trained-model-in-python,coding > machineLearning > articles,articles
+The problem with metrics is a big problem for AI – fast.ai,https://www.fast.ai/posts/2019-09-24-metrics.html,coding > machineLearning > articles,articles
+What is RAG? - Retrieval-Augmented Generation AI Explained - AWS,https://aws.amazon.com/what-is/retrieval-augmented-generation/,coding > machineLearning > articles,articles
+Reasoning with o1 - DeepLearning.AI,https://learn.deeplearning.ai/courses/reasoning-with-o1/lesson/1/introduction,coding > machineLearning > learn,learn
+Machine Learning Mastery,https://machinelearningmastery.com/,coding > machineLearning > learn,learn
+Deep Learning,https://www.deeplearningbook.org/,coding > machineLearning > learn,learn
+"Seeing Theory - visual intro to probability, statistics",https://seeing-theory.brown.edu/,coding > machineLearning > learn,learn
+Machine Learning Glossary - Visual explanation of Machine Learning Concepts,https://ml-cheatsheet.readthedocs.io/en/latest/index.html,coding > machineLearning > learn,learn
+MLU-Explain - Visual explanation of Machine Learning Concepts,https://mlu-explain.github.io/,coding > machineLearning > learn,learn
+Resources - DeepLearning.AI [courses],https://www.deeplearning.ai/resources/,coding > machineLearning > learn,learn
+Tim Rocktäschel - Advice for Machine Learning Research,https://rockt.github.io/2018/08/29/msc-advice,coding > machineLearning > learn,learn
+Neural networks and deep learning [book],http://neuralnetworksanddeeplearning.com/,coding > machineLearning > learn,learn
+[blog] on machine learning concepts,https://colah.github.io/,coding > machineLearning > learn,learn
+Distill — Latest articles about machine learning,https://distill.pub/,coding > machineLearning > learn,learn
+The latest in Machine Learning | Papers With Code,https://paperswithcode.com/,coding > machineLearning > learn,learn
+Physics: a survey of machine learning applications [readlater],https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1322162/full,coding > machineLearning > learn,learn
+ZhiningLiu1998/awesome-machine-learning-resources: 😎 A curated list of awesome lists across all machine learning topics,https://github.com/ZhiningLiu1998/awesome-machine-learning-resources?tab=readme-ov-file#finance--trading,coding > machineLearning > learn,learn
+Choosing the right estimator — scikit-learn documentation,https://scikit-learn.org/stable/machine_learning_map.html,coding > machineLearning > learn,learn
+Rules of Machine Learning:  |  Google for Developers,https://developers.google.com/machine-learning/guides/rules-of-ml,coding > machineLearning > learn,learn
+Machine Learning  |  Google for Developers [course],https://developers.google.com/machine-learning,coding > machineLearning > learn,learn
+mrdbourke/pytorch-deep-learning: Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.,https://github.com/mrdbourke/pytorch-deep-learning,coding > machineLearning > learn,learn
+Data ethics | Machine Learning Ethics,https://ethics.fast.ai/,coding > machineLearning > learn,learn
+aiquizzes - learn ai [quiz] on AI | fast.ai,https://aiquizzes.com/,coding > machineLearning > learn,learn
+Transformer Explainer: LLM Transformer Model Visually Explained,https://poloclub.github.io/transformer-explainer/,coding > machineLearning > learn,learn
+The Annotated Transformer | Explanation of transformer architecture | attention is all you need [readlater],https://nlp.seas.harvard.edu/annotated-transformer/#embeddings-and-softmax,coding > machineLearning > learn,learn
+Transformers from scratch | Explanation of Attention is all you need [readlater],https://peterbloem.nl/blog/transformers,coding > machineLearning > learn,learn
+The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time | explanation of attention is all you need [readlater],https://jalammar.github.io/illustrated-transformer/,coding > machineLearning > learn,learn
+Explainable AI: Visualizing Attention in Transformers | explanation of attention is all you need [readlater],https://www.comet.com/site/blog/explainable-ai-for-transformers/,coding > machineLearning > learn,learn
+Understanding Deep Learning,https://udlbook.github.io/udlbook/,coding > machineLearning > learn,learn
+Universal approximation theorem - Wikipedia,https://en.wikipedia.org/wiki/Universal_approximation_theorem,coding > machineLearning > learn,learn
+Deep Learning - Foundations and Concepts,https://www.bishopbook.com/,coding > machineLearning > learn,learn
+CS50.me: CS50 AI | my submissions,https://cs50.me/cs50ai,coding > machineLearning > learn,learn
+How does a neural net really work?,https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work,coding > machineLearning > learn,learn
+Which image models are best?,https://www.kaggle.com/code/jhoward/which-image-models-are-best,coding > machineLearning > learn,learn
+The Ultra-Scale Playbook - a Hugging Face Space by nanotron | training LLM on large GPUs [readlater],https://huggingface.co/spaces/nanotron/ultrascale-playbook,coding > machineLearning > learn,learn
+CS50's Introduction to Artificial Intelligence with Python | course | learning | harvard,https://cs50.harvard.edu/ai/2024/,coding > machineLearning > learn,learn
+Understanding binary cross-entropy / log loss: a visual explanation | Towards Data Science,https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a/,coding > machineLearning > learn,learn
+Getting started with NLP for absolute beginners,https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners,coding > machineLearning > learn,learn
+A Neural Network Playground,"https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle®Dataset=reg-plane&learningRate=0.03®ularizationRate=0&noise=0&networkShape=4,2&seed=0.04050&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false",coding > machineLearning > learn,learn
+The problem with metrics is a big problem for AI – fast.ai,https://www.fast.ai/posts/2019-09-24-metrics.html,coding > machineLearning > learn,learn
+Self-Adapting Language Models,https://arxiv.org/pdf/2506.10943,coding > machineLearning > learn,learn
+InterviewReady/ai-engineering-resources: Research papers and blogs to transition to AI Engineering,https://github.com/InterviewReady/ai-engineering-resources?tab=readme-ov-file,coding > machineLearning > learn,learn
+CNN Explainer,https://poloclub.github.io/cnn-explainer/,coding > machineLearning > learn,learn
+Diffusion Explainer: Stable Diffusion Explained with Visualization,https://poloclub.github.io/diffusion-explainer/,coding > machineLearning > learn,learn
+Dive into Deep Learning — Dive into Deep Learning 1.0.3 documentation,https://d2l.ai/,coding > machineLearning > learn,learn
+Zero to Mastery Learn PyTorch for Deep Learning,https://www.learnpytorch.io/,coding > machineLearning > learn,learn
+"Python for Data Analysis, 3E",https://wesmckinney.com/book/,coding > machineLearning > learn,learn
+A Gentle Introduction to Graph Neural Networks,https://distill.pub/2021/gnn-intro/,coding > machineLearning > learn,learn
+Programming Ocean Academy | AI Models Architecture,https://www.programming-ocean.com/ai-architecutres/architectures.php,coding > machineLearning > learn,learn
+MetaSnake Products,https://store.metasnake.com/,coding > machineLearning > learn,learn
+A Neural Network Playground,"https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=spiral®Dataset=reg-plane&learningRate=0.03®ularizationRate=0&noise=0&networkShape=5,5,2&seed=0.86819&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false",coding > machineLearning > learn,learn
+Welcome to Spinning Up in Deep RL! — Spinning Up documentation,https://spinningup.openai.com/en/latest/,coding > machineLearning > learn,learn
+www.learnpytorch.io,https://www.learnpytorch.io/,coding > machineLearning > learn,learn
+CUDA Programming Course – High-Performance Computing with GPUs - YouTube,https://www.youtube.com/watch?v=86FAWCzIe_4&t=874s,coding > machineLearning > learn,learn
+Home - Made With ML by Anyscale,https://madewithml.com/,coding > machineLearning > learn,learn
+Designing Data-Intensive Applications (DDIA) — an O’Reilly book by Martin Kleppmann (The Wild Boar Book),https://dataintensive.net/,coding > machineLearning > learn,learn
+FutureHouse | deep research | by google creators,https://www.futurehouse.org/,coding > machineLearning > AItools,AItools
+Claude | chatbot,https://claude.ai/chats,coding > machineLearning > AItools,AItools
+Stability AI | image generator,https://stability.ai/,coding > machineLearning > AItools,AItools
+DreamStudio | image generator,https://dreamstudio.ai/,coding > machineLearning > AItools,AItools
+YouTube Transcript - read YouTube videos,https://youtubetranscript.com/,coding > machineLearning > AItools,AItools
+Kimi AI – Kimi K2 is Live,https://www.kimi.com/,coding > machineLearning > AItools,AItools
+DeepSeek - Into the Unknown,https://chat.deepseek.com/,coding > machineLearning > AItools,AItools
+FutureHouse Platform,https://platform.futurehouse.org/,coding > machineLearning > AItools,AItools
+Perplexity,https://www.perplexity.ai/,coding > machineLearning > AItools,AItools
+prompts.chat — awesome AI prompts,https://prompts.chat/,coding > machineLearning > AItools,AItools
+Lovable,https://lovable.dev/,coding > machineLearning > AItools,AItools
+Qwen,https://chat.qwen.ai/,coding > machineLearning > AItools,AItools
+Parse - Data from Anywhere,https://www.parse.bot/,coding > machineLearning > AItools,AItools
+The Leading Multi-Agent Platform,https://www.crewai.com/,coding > machineLearning > AItools,AItools
+Google Gemini,https://gemini.google.com/u/0/app?hl=en-IN,coding > machineLearning > AItools,AItools
+This Person Does Not Exist - Random Face Generator,https://this-person-does-not-exist.com/en,coding > machineLearning > AItools,AItools
+Google C++ Style Guide,https://google.github.io/styleguide/cppguide.html,coding > C/C++,C/C++
+Learn C++ | Learn cpp | Official cpp guide,https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/,coding > C/C++,C/C++
+C++ Core Guidelines,https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines,coding > C/C++,C/C++
+GCC Coding Conventions - GNU Project [guide],https://gcc.gnu.org/codingconventions.html,coding > C/C++,C/C++
+LLVM Coding Standards [guide],https://llvm.org/docs/CodingStandards.html,coding > C/C++,C/C++
+cppreference.com [guide],https://en.cppreference.com/w/,coding > C/C++,C/C++
+Free Online C++ Courses | StudyPlan.dev,https://www.studyplan.dev/cpp,coding > C/C++,C/C++
+Sutter’s Mill – Herb Sutter on software development,https://herbsutter.com/,coding > C/C++,C/C++
+C++ Developer Roadmap,https://roadmap.sh/cpp,coding > C/C++,C/C++
+Stroustrup: C++ Glossary,https://www.stroustrup.com/glossary.html,coding > C/C++,C/C++
+01-Codewars,https://www.codewars.com/dashboard,coding > DSA,DSA
+krishnadey30/LeetCode-Questions-CompanyWise: Contains Company Wise Questions sorted based on Frequency and all time,https://github.com/krishnadey30/LeetCode-Questions-CompanyWise,coding > DSA,DSA
+On the Frame–Stewart algorithm for the multi-peg Tower of Hanoi problem - ScienceDirect,https://www.sciencedirect.com/science/article/pii/S0166218X01002876,coding > DSA,DSA
+The Fastest Way Yet to Color Graphs | Quanta Magazine,https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/,coding > DSA,DSA
+Cooley–Tukey FFT algorithm - Wikipedia,https://en.m.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm,coding > DSA,DSA
+NextWork - Set Up An AWS Account for Free,https://learn.nextwork.org/projects/aws-account-setup,coding > DSA,DSA
+I pay $32 a year for my VPS and it's awesome,https://www.xda-developers.com/best-tool-my-home-lab-reassuringly-affordabl/,coding > DSA,DSA
+Codeforces,https://codeforces.com/,coding > DSA,DSA
+ProjectEuler+ | HackerRank,https://www.hackerrank.com/contests/projecteuler/challenges,coding > DSA,DSA
+(1) The fastest sorting algorithm - YouTube,https://www.youtube.com/watch?v=Y95a-8oNqps&t=78s,coding > DSA,DSA
+"The Missing Semester of Your CS Education | mit | must {readsoon] | shell, bash, linux",https://missing.csail.mit.edu/,coding > linux / shell,linux / shell
+Checking Job Status | mit | qsub,https://web.mit.edu/longjobs/www/status.html,coding > linux / shell,linux / shell
+qsub documentation,"https://docs.adaptivecomputing.com/torque/4-0-2/Content/topics/commands/qsub.htm#:~:text=The%20qsub%20command%20will%20submit,script%20to%20the%20default%20server.",coding > linux / shell,linux / shell
+Creating a PBS script | job script,"https://latisresearch.umn.edu/creating-a-PBS-script#:~:text=The%20PBS%20job%20submission%20script,other%20attributes%20of%20the%20job.",coding > linux / shell,linux / shell
+Commonly Used PBS Commands | qsub | nasa,https://www.nas.nasa.gov/hecc/support/kb/commonly-used-pbs-commands_174.html,coding > linux / shell,linux / shell
+"You suck at programming | source for learning Unix, Bash, Linux basics to advanced",https://ysap.daveeddy.com/,coding > linux / shell,linux / shell
+Bash Prompt HOWTO ( some complex thing ),https://tldp.org/HOWTO/Bash-Prompt-HOWTO/index.html,coding > linux / shell,linux / shell
+Advanced Bash-Scripting Guide [complex],https://tldp.org/LDP/abs/html/index.html,coding > linux / shell,linux / shell
+Essential Perl | Perl Language | stanford,http://cslibrary.stanford.edu/108/EssentialPerl.html,coding > linux / shell,linux / shell
+Bash Scripting - Functions - GeeksforGeeks,https://www.geeksforgeeks.org/bash-scripting-functions/,coding > linux / shell,linux / shell
+How to Use Regular Expressions (RegEx) on Linux - GeeksforGeeks,https://www.geeksforgeeks.org/how-to-use-regular-expressions-regex-on-linux/?ref=lbp,coding > linux / shell,linux / shell
+Introduction to text manipulation on UNIX-based systems - IBM Developer,https://developer.ibm.com/articles/au-unixtext/#using-fold10,coding > linux / shell,linux / shell
+Home | Linux Journey,https://linuxjourney.com/,coding > linux / shell,linux / shell
+"Open Source Initiative – The steward of the Open Source Definition, setting the foundation for the Open Source Software ecosystem.",https://opensource.org/,coding > linux / shell,linux / shell
+"Tmux Cheat Sheet & Quick Reference | Session, window, pane and more",https://tmuxcheatsheet.com/,coding > linux / shell,linux / shell
+Operating Systems: Three Easy Pieces,https://pages.cs.wisc.edu/~remzi/OSTEP/,coding > linux / shell,linux / shell
+Crafting Interpreters,https://craftinginterpreters.com/,coding > linux / shell,linux / shell
+Nikola Tesla | Astro,https://astro.build/themes/details/nikola-tesla/,coding > webDevelopment > selected,selected
+Astro Academia | Astro,https://astro.build/themes/details/astro-academia/,coding > webDevelopment > selected,selected
+Gianmarco Cavallo - Freelance front-end Developer,https://sparkly-speculoos-0c9197.netlify.app/,coding > webDevelopment > selected,selected
+Astro Milidev,https://bartoszlenar.github.io/astro-milidev/,coding > webDevelopment > selected,selected
+Andrés Plaza - Full Stack Developer,https://bue221.vercel.app/,coding > webDevelopment > selected,selected
+Astro AntfuStyle Theme,https://astro-antfustyle-theme.vercel.app/,coding > webDevelopment > selected,selected
+AntfuStyle | Astro,https://astro.build/themes/details/antfustyle-theme/,coding > webDevelopment > selected,selected
+lin-stephanie/astro-antfustyle-theme: A flexible and feature-rich Astro theme for developers and creators.,https://github.com/lin-stephanie/astro-antfustyle-theme,coding > webDevelopment > selected,selected
+Flexoki — Steph Ango,https://stephango.com/flexoki,coding > webDevelopment > selected,selected
+How I use Obsidian — Steph Ango,https://stephango.com/vault,coding > webDevelopment > selected,selected
+How to add a landing page to a mkdocs doc site using mkdocs-material? - Stack Overflow,https://stackoverflow.com/questions/63438788/how-to-add-a-landing-page-to-a-mkdocs-doc-site-using-mkdocs-material/66240880#66240880,coding > webDevelopment > selected,selected
+binbashar/le-ref-architecture-doc: Binbash Leverage Reference Architecture documentation,https://github.com/binbashar/le-ref-architecture-doc/,coding > webDevelopment > selected,selected
+Steps to creating a similar homepage · Issue #1996 · squidfunk/mkdocs-material,https://github.com/squidfunk/mkdocs-material/issues/1996,coding > webDevelopment > selected,selected
+binbash - binbash Leverage™,https://leverage.binbash.co/,coding > webDevelopment > selected,selected
+Steps to creating a similar homepage · Issue #1996 · squidfunk/mkdocs-material,https://github.com/squidfunk/mkdocs-material/issues/1996#issuecomment-718247120,coding > webDevelopment > selected,selected
+How to Create an Always Free Website on the Oracle Cloud - YouTube,https://www.youtube.com/watch?v=yWVD6qmQrb8,coding > webDevelopment > selected,selected
+Oracle Cloud Free Tier | Oracle India,https://www.oracle.com/in/cloud/free/,coding > webDevelopment > selected,selected
+40 Creative Websites With Illustrations You Should See,https://reallygooddesigns.com/websites-with-illustrations/,coding > webDevelopment > selected,selected
+Helena Zhang,https://www.helenazhang.com/,coding > webDevelopment > selected,selected
+Tobias Fried,https://tobiasfried.com/,coding > webDevelopment > selected,selected
+Departure Mono,https://departuremono.com/,coding > webDevelopment > selected,selected
+rektdeckard/portfolio: My personal website and portfolio.,https://github.com/rektdeckard/portfolio,coding > webDevelopment > selected,selected
+Jan-Lucas Uslu,https://www.uslu.tech/,coding > webDevelopment > selected,selected
+TruffleHog Analyze ◆ Truffle Security Co.,https://trufflesecurity.com/trufflehog-analyze,coding > webDevelopment > selected,selected
+React Bits - Decay Card,https://reactbits.dev/components/decay-card,coding > webDevelopment,webDevelopment
+Material for MkDocs,https://squidfunk.github.io/mkdocs-material/,coding > webDevelopment,webDevelopment
+SPACE TYPE GENERATOR,https://spacetypegenerator.com/,coding > webDevelopment,webDevelopment
+Quarto,https://quarto.org/,coding > webDevelopment,webDevelopment
+The Ultimate FastAPI + React Full Stack Project (Deploy This and You’re Set) - YouTube,https://www.youtube.com/watch?v=_1P0Uqk50Ps,coding > webDevelopment,webDevelopment
+Svelte • Web development for the rest of us,https://svelte.dev/,coding > webDevelopment,webDevelopment
+nginx,https://nginx.org/,coding > webDevelopment,webDevelopment
+Bits UI – Headless components for Svelte,https://www.bits-ui.com/,coding > webDevelopment,webDevelopment
+Melt UI,https://melt-ui.com/docs/introduction,coding > webDevelopment,webDevelopment
+Build your Component Library - shadcn-svelte,https://www.shadcn-svelte.com/,coding > webDevelopment,webDevelopment
+Content Collections,https://www.content-collections.dev/,coding > webDevelopment,webDevelopment
+Favicon Generator for perfect icons on all browsers,https://realfavicongenerator.net/your-favicon-is-ready,coding > webDevelopment,webDevelopment
+Controlling your video animations with scroll-timeline and animation-timeline,https://techhub.iodigital.com/articles/controlling-video-scroll,coding > webDevelopment,webDevelopment
+GSAP Showcase,https://gsap.com/showcase/,coding > webDevelopment,webDevelopment
+(1) Learn React With This ONE Project - YouTube,https://www.youtube.com/watch?v=G6D9cBaLViA&t=4555s,coding > webDevelopment,webDevelopment
+sankey plot - Google Search,https://www.google.com/search?sca_esv=7f913f0ee5b6aad4&sxsrf=AE3TifNKjhwHR1-WKtLIiOYpHmna_-n_Xw:1750080691505&q=sankey+plot&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmPgfe_7ak8LUsonpWCvT6w6csnyTymMQ2XHqFKxVhyiTsB7_xjE7pCrlhvgmABFb-qvUXFeXLKmP5HUMuOwzi3WnYui_lj4KK5DDCXpIqsnl62Ret2e_MUqQ1oRapyUqwUPIk8KaocHucTHNXE8BYer8HcLJWt7FPeeoEFu-UVSBVvrBDw&sa=X&ved=2ahUKEwj59cfPhvaNAxVRnq8BHQoPKvAQ0pQJegQIFRAB&biw=1879&bih=1007&dpr=1,coding > plots,plots
+voronoi - Google Search,https://www.google.com/search?sca_esv=75796267c5338491&sxsrf=AE3TifOEAoDjxaMrIlPQoYKs5fzbSm1ozQ:1750136897624&q=voronoi&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv2vYLpGLzullnMHPzMZpThFMX2b0FgaIC8A_oXlm43MMXFbxJXkxVO_xdeuvfPKOre05GoirZi02Ba82CmTVMrsAazOeBfpTx9LZdPPSoQHNKdxpbg&sa=X&ved=2ahUKEwiAld2A2PeNAxVrh68BHRwvHu8QtKgLegQIFhAB&biw=1879&bih=1007&dpr=1,coding > plots,plots
+radial tree diagram - Google Search,https://www.google.com/search?sca_esv=afbf6cd5309ef765&sxsrf=AE3TifMi2KXkbToEKyBP_-X39LU1XZc71A:1750228830928&q=radial+tree+diagram&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOha3O1YqG67F0QIhAOFN_ob1yXos5K_Qo9Tq-0cVPzex8akBC0YDCZ6Kdb3tXvKc6REgf3vAxmWjii6Zu8D3ukBgEZt85bCNn6rBG2av3G6E0v91S9jMn9vVYvV5PbYPAsdPCdfG5GnDwNbDQn1miZTogqAXbQ&sa=X&ved=2ahUKEwjY3fi9rvqNAxUDsFYBHXV4E-wQtKgLegQIFBAB&biw=1879&bih=973&dpr=1,coding > plots,plots
+PyVista — PyVista 0.45.2 documentation,https://docs.pyvista.org/,coding > plots,plots
+Mayavi: 3D scientific data visualization and plotting in Python — mayavi 4.8.3 documentation,https://docs.enthought.com/mayavi/mayavi/,coding > plots,plots
+"ParaView - Open-source, multi-platform data analysis and visualization application",https://www.paraview.org/,coding > plots,plots
+garrettj403/SciencePlots: Matplotlib styles for scientific plotting,https://github.com/garrettj403/SciencePlots,coding > plots,plots
+pyvista.Property.style — PyVista 0.46.0 documentation,https://docs.pyvista.org/api/plotting/_autosummary/pyvista.property.style,coding > plots,plots
+The PyVista Project,https://pyvista.org/,coding > plots,plots
+Keenan Crane,https://www.cs.cmu.edu/~kmcrane/,coding > plots,plots
+Great 3D figures with minimal effort - Jean Feydy - Shape seminar - YouTube,https://www.youtube.com/watch?v=NsF4Rifh0Yw&list=PLBFtqeJgRBGies4qp_XWlrsYxgDePEmtp&index=21,coding > plots,plots
+[D] How Do You Make Your Published Plots Look So Good? : r/MachineLearning,https://www.reddit.com/r/MachineLearning/comments/1jlt27q/d_how_do_you_make_your_published_plots_look_so/,coding > plots,plots
+TikZ.net – Graphics with TikZ in LaTeX,https://tikz.net/,coding > plots,plots
+PGFplots.net – Drawing plots and diagrams with LaTeX and PGFplots,https://pgfplots.net/,coding > plots,plots
+Create Elegant Data Visualisations Using the Grammar of Graphics • ggplot2,https://ggplot2.tidyverse.org/,coding > plots,plots
+vega/altair: Declarative visualization library for Python,https://github.com/vega/altair,coding > plots,plots
+"Building Stories With Data - Cara Thompson, Data Visualisation Consultant",https://www.cararthompson.com/,coding > plots,plots
+Online FlowChart & Diagrams Editor - Mermaid Live Editor,https://mermaid.live/edit#pako:eNpVjUFvgkAQhf_KZk5tgkYEKe6hScXWi0l78FTwMJGRJcouWZZYC_73DhrTdg6TmXnve9PBzuQEEvZHc9optE5slpkWXC9pomzZuAqbrRiNnvsVOVEZTedeLB5WRjTK1HWpi8ebfzGYRNKtBxsJp0p9uNyk5Mq_a-rFMl1j7Uy9_atsTqYXr2n5oTj-v6IsMfWW7lHucbRDKxK0W_CgsGUO0tmWPKjIVjis0A1wBk5RRRlIHnO0hwwyfWGmRv1pTHXHrGkLBZx7bHhr6xwdLUssLP5aSOdkE9NqB9KfhtcMkB18gQym4TgOuEdxFMz9KPDgDHIWjMPgaTbxfe48zS8efF-fTsYx37n8OJpGYcjSD90PdJA,coding > plots,plots
+seaborn: statistical data visualization — seaborn 0.13.2 documentation,https://seaborn.pydata.org/index.html,coding > plots,plots
+Choosing color palettes — seaborn 0.13.2 documentation,https://seaborn.pydata.org/tutorial/color_palettes.html,coding > plots,plots
+Keenan Crane,https://www.cs.cmu.edu/~kmcrane/index.html#news,coding > plots,plots
+Building Stories With Data - About,https://www.cararthompson.com/about,coding > plots,plots
+garrettj403/SciencePlots: Matplotlib styles for scientific plotting,https://github.com/garrettj403/SciencePlots?tab=readme-ov-file,coding > plots,plots
+Linusnie/blender-plots: Python library for making 3D plots with blender,https://github.com/Linusnie/blender-plots,coding > plots,plots
+Graph Editor - Blender 4.5 LTS Manual,https://docs.blender.org/manual/en/latest/editors/graph_editor/index.html,coding > plots,plots
+Reddit - The heart of the internet,https://www.reddit.com/r/blender/comments/kcer2d/using_blender_for_3d_plotting/,coding > plots,plots
+Gallery — Bokeh 3.8.0 Documentation,https://docs.bokeh.org/en/latest/docs/gallery.html,coding > plots,plots
+janosh/pymatviz: A toolkit for visualizations in materials informatics.,https://github.com/janosh/pymatviz,coding > plots,plots
+python - Create a 3D surface plot in Plotly - Stack Overflow,https://stackoverflow.com/questions/69625661/create-a-3d-surface-plot-in-plotly,coding > plots,plots
+3D Surface Plots,https://plotly.com/chart-studio-help/make-a-3d-surface-plot/,coding > plots,plots
+Slicing a surface by a plane | surface made by Empet | plotly,https://chart-studio.plotly.com/~empet/15693/#code,coding > plots,plots
+python - Plotting multiple 3d lines in one figure using plotly - Stack Overflow,https://stackoverflow.com/questions/60153352/plotting-multiple-3d-lines-in-one-figure-using-plotly,coding > plots,plots
+LaTeX Graphics with TikZ,https://tikz.org/,coding > plots,plots
+TikZ Is All You Need,https://mkofinas.github.io/tikz_tutorial.pdf,coding > plots,plots
+fraserlove/nntikz: A collection of TikZ diagrams of neural networks and deep learning concepts for academic use.,https://github.com/fraserlove/nntikz,coding > plots,plots
+Drawing 3D Transformer with TikZ or PSTricks - TeX - LaTeX Stack Exchange,https://tex.stackexchange.com/questions/61913/drawing-3d-transformer-with-tikz-or-pstricks,coding > plots,plots
+tikzpgfmanual.pdf,https://www.bu.edu/math/files/2013/08/tikzpgfmanual.pdf,coding > plots,plots
+PGF/TikZ Manual - Complete Online Documentation,https://tikz.dev/,coding > plots,plots
+Periodic Table – TikZ.net,https://tikz.net/periodic-table/,coding > plots,plots
+FreeTikZ,https://homepages.inf.ed.ac.uk/cheunen/freetikz/,coding > plots,plots
+TeXample.net – LaTeX and TikZ examples,https://texample.net/,coding > plots,plots
+D3 by Observable | The JavaScript library for bespoke data visualization,https://d3js.org/,coding > plots,plots
+Tutorial: Active Learning with 3Dmol.js,https://3dmol.org/doc/tutorial-learning_environment.html,coding > plots,plots
+storytelling with data,https://www.storytellingwithdata.com/,coding > plots,plots
+voronoi diagram python - Google Search,https://www.google.com/search?sca_esv=81be61c3dad309e5&sxsrf=AE3TifO8zmlPJV3Bplm1bE6sBMFCu4sP9A:1758195304906&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOha3O1YqG67F0QIhAOFN_ob1yXos5K_Qo9Tq-0cVPzex8akBC0YDCZ6Kdb3tXvKc6REgf3vAxmWjii6Zu8D3ukBgEZt85bCNn6rBG2av3G6E0v91S9jMn9vVYvV5PbYPAsdPCdfG5GnDwNbDQn1miZTogqAXbQ&q=voronoi+diagram+python&sa=X&ved=2ahUKEwj-4eD0m-KPAxVuUWcHHaqVAHMQtKgLegQIFxAB&biw=1879&bih=1007&dpr=1,coding > plots,plots
+Information is Beautiful,https://informationisbeautiful.net/,coding > plots,plots
+colour-science/colour: Colour Science for Python,https://github.com/colour-science/colour,coding > plots,plots
+A perceptual color space for image processing,https://bottosson.github.io/posts/oklab/,coding > plots,plots
+Diagrams · Diagram as Code,https://diagrams.mingrammer.com/,coding > plots,plots
+A Complete Guide to Violin Plots | Atlassian,"https://www.atlassian.com/data/charts/violin-plot-complete-guide#:~:text=A%20violin%20plot%20depicts%20distributions,plot%2C%20to%20provide%20additional%20information.",coding > plots,plots
+Top matplotlib Visualizations [plot],https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/,coding > plots,plots
+Diverging stacked bar chart / D3 | Observable,https://observablehq.com/@d3/diverging-stacked-bar-chart/2,coding > plots,plots
+ridge style plot - Google Search,https://www.google.com/search?sa=X&sca_esv=d961df446e695a03&sxsrf=AE3TifOJDbjIvqSzXIOmqLr9Md-3or5Jwg:1761308267605&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zEMZldv_eRjZ2XLYc5GnVnME7glWodDcaQwvGYJtospyF4hao4VocMoniUVvlzzwRcCLYvfsjPeiuln4CZ9mxRNzMJl71rp-WEM_b89yTboF0wE9FSbwRYrSVuB6YHexvLk_d7r_74zDurdYUrhSbdL5TbQGiA&q=ridge+style+plot&ved=2ahUKEwjvu4XN6LyQAxWdTWwGHXtFMaMQtKgLegQIFxAB&biw=1879&bih=1007&dpr=1,coding > plots,plots
+"VegNet: Vegetable Dataset with quality (Unripe, Ripe, Old, Dried and Damaged) - Mendeley Data",https://data.mendeley.com/datasets/6nxnjbn9w6/1,projects > vegDataset,vegDataset
+Vegetable Image Dataset,https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset,projects > vegDataset,vegDataset
+Vegetables Dataset,https://www.kaggle.com/datasets/rudraprasadbhuyan/vegetables-dataset,projects > vegDataset,vegDataset
+Vegetables Object Detection Model by Vegetables,https://universe.roboflow.com/vegetables/vegetables-el4g6,projects > vegDataset,vegDataset
+Horea94/Fruit-Images-Dataset: Fruits-360: A dataset of images containing fruits and vegetables,https://github.com/Horea94/Fruit-Images-Dataset,projects > vegDataset,vegDataset
+Vegetables Labeled Image Dataset - Free Download & High Quality Annotations | images.cv,https://images.cv/dataset/vegetables-image-classification-dataset,projects > vegDataset,vegDataset
+Fruits & Vegetable Detection - Dataset Ninja,https://datasetninja.com/fruits-and-vegetable-detection,projects > vegDataset,vegDataset
+BanglaVeg: A curated vegetable image dataset from Bangladesh for precision agriculture - ScienceDirect,https://www.sciencedirect.com/science/article/pii/S2352340925001738,projects > vegDataset,vegDataset
+Nattakarn/fruit-and-vegetable-image-recognition · Datasets at Hugging Face,https://huggingface.co/datasets/Nattakarn/fruit-and-vegetable-image-recognition,projects > vegDataset,vegDataset
+Improved Classification Approach for Fruits and Vegetables Freshness Based on Deep Learning,https://www.mdpi.com/1424-8220/22/21/8192,projects > vegDataset,vegDataset
+Dataset - Catalog,https://catalog.data.gov/dataset/?tags=fruits-and-vegetables,projects > vegDataset,vegDataset
+Is there any Image dataset on vegetables and Fruits? : r/datasets,https://www.reddit.com/r/datasets/comments/n777o8/is_there_any_image_dataset_on_vegetables_and/,projects > vegDataset,vegDataset
+Different types of Vegetable Labeled Image Datasets | images.cv,https://images.cv/dataset-categories/vegetable,projects > vegDataset,vegDataset
+A novel method for vegetable and fruit classification based on using diffusion maps and machine learning - ScienceDirect,https://www.sciencedirect.com/science/article/pii/S2665927124000637,projects > vegDataset,vegDataset
+"GitHub - C-Logesh-Perumal-29/Vegetable_Classification_And_Detection: Vegetable Classification & Detection, a web-based tool, leverages Streamlit, TensorFlow, and OpenCV. It employs CNN and YOLO models to classify and detect vegetables from images and live feeds, benefiting agriculture and food processing with accurate identification & detection tasks.",https://github.com/C-Logesh-Perumal-29/Vegetable_Classification_And_Detection,projects > vegDataset,vegDataset
+Vegetable Classification using Deep Learning: Insights from Transfer Learning Models | IEEE Conference Publication | IEEE Xplore,https://ieeexplore.ieee.org/document/10795820,projects > vegDataset,vegDataset
+Fruits and Vegetable Classify Model > Overview,https://universe.roboflow.com/chicken-ai/fruits-and-vegetable-classify,projects > vegDataset,vegDataset
+Fresh and Rotten Classification,https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification,projects > vegDataset,vegDataset
+Vegetable Classification Using Transfer Learning,https://www.kaggle.com/code/theeyeschico/vegetable-classification-using-transfer-learning,projects > vegDataset,vegDataset
+Flirting with Models – The podcast all about quantitative investing,https://www.flirtingwithmodels.com/,finance,finance
+Signals and Threads | [machine learning] [quant finance] [jane street],https://signalsandthreads.com/,finance,finance
+International Monetary Fund (IMF),https://www.imf.org/en/Home,finance,finance
+"The Strategy Story - Simplifying Business Strategies | Business models of Companies, startups",https://thestrategystory.com/,finance,finance
+Stock Screener and fundamental analysis tool for Indian stocks - Screener,https://www.screener.in/,finance,finance
+FIRE Age Calculator - Estimate the age you will acheive Financial Independence and Retire Early (FIRE),https://fireagecalc.com/,finance,finance
+EMI and SIP Calculator in Python. Part 1: Code Implementation of EMI &… | by Nioneer | Python in Plain English,https://python.plainenglish.io/emi-and-sip-calculator-in-python-3e7b5a8f1f6,finance,finance
+Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape,https://www.tickertape.in/,finance,finance
+"I made a (new and improved) advanced budget/income/net worth/FIRE spreadsheet. Easy to use, lots of analysis, dashboard, dark mode. Critiques welcome! : r/financialindependence",https://www.reddit.com/r/financialindependence/comments/rwq9qw/i_made_a_new_and_improved_advanced/,finance,finance
+Zerodha Varsity: Free Stock Market & Trading Courses Online,https://zerodha.com/varsity/,finance,finance
+Copy of Income/Budget/NW/FIRE Spreadsheet - Google Sheets,https://docs.google.com/spreadsheets/d/1lAP0NQ56jGF39Z2OHAam7k17BLK3vbN8o9bQi0xYHTc/edit?gid=57900336#gid=57900336,finance,finance
+r/personalfinance Wiki: Budgeting Guide,https://www.reddit.com/r/personalfinance/wiki/budgeting/,finance,finance
+Learn mutual funds SIPs,https://chatgpt.com/c/69075588-e5b0-8323-b659-cd3d814cf3f6,finance,finance
