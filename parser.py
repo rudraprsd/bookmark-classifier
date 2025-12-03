@@ -45,6 +45,7 @@ class BookmarksParser(HTMLParser):
             cleaned_title = self.clean_text(data)
             self.current_bookmark['title'] = cleaned_title
             dir_stack = self.directory_stack[1:] if self.skip_root and len(self.directory_stack) > 1 else self.directory_stack
+            # '> ' separator is used because some categories uses '/'
             self.current_bookmark['directory'] = ' > '.join(dir_stack)
             self.bookmarks.append(self.current_bookmark.copy())
 
