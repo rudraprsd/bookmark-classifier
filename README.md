@@ -1,52 +1,86 @@
-# Bookmark Classifier
+# **Bookmark Classifier**
 
-Classify you bookmarks into different categories.
+A machine learning pipeline that classifies browser bookmarks into predefined categories using parsed bookmark data and text embeddings.
 
-## Overview
+![Bookmark Classifier](project_logo.png)
+---
 
-It takes your browser bookmarks HTML file as input, parses it to extract URLs and titles of the bookmarks, and then classifies them into predefined categories using machine learning models.
+## **Overview**
 
-For training the models, I used my personal bookmark collection which is categorized into different folders. I considered the leaf directores as categories for classification (for MVP).
+This project takes a browser bookmarks HTML file, extracts bookmark titles and URLs, and assigns each bookmark to a category. The categories are derived from the leaf folders in the user’s own bookmark structure.
 
-I parsed the URLs and used the clean URLs (without www, http, https, etc.) and combined with the title of the bookmark to make a new text feature.
+A combined text feature (`title + cleaned URL`) is used as input for model training.
 
-First I used TF-IDF for vectorization and trained multiple models like Logistic Regression, Linear SVC, Random Forest, etc. I also used hyperparameter tuning using GridSearchCV to find the best parameters for the models.
+---
 
-The accuracy scores are as follows:
-- Multinomial NB: 20.0%
-- Logistic Regression: 37.5%
-- Linear SVC: 45.0%
-- Random Forest: 40.0%
+## **Approach**
 
-Models are not performing well because of High-dimensional sparse TF-IDF matrix (99.61% sparsity).
+### **1. Feature Extraction**
 
-The problem is not with the models but with the feature representation. So I switched to Sentence Transformers for better text embeddings.
+* Parsed bookmark HTML to extract titles, URLs, and domain names
+* Cleaned URLs by removing prefixes (`http`, `https`, `www`)
+* Constructed a text feature: **title + clean URL**
+* Added **domain name** as an additional categorical feature (OHE)
 
-I used the 'all-MiniLM-L6-v2' pre-trained model from Sentence Transformers to generate dense embeddings for the combined text feature (title + clean URL). Then I trained the same models on these embeddings. The accuracy scores improved significantly:
-- Logistic Regression: 52.5%
-- Linear SVC: 57.5%
-- Random Forest: 47.5%
+### **2. Vectorization**
 
-Agian I did some feature engineering by adding only domain name as an additional feature as OHE (One-Hot Encoding) vectors to the Sentence Transformer embeddings. This further improved the model performance:
-- Logistic Regression: 62.5%
-- Linear SVC: 55.0%
-- Random Forest: 37.5%
+* **TF-IDF** produced a highly sparse feature matrix (99.61% sparsity) → poor performance
+* Switched to **Sentence Transformer embeddings** (`all-MiniLM-L6-v2`) for dense, semantic vectors
 
+### **3. Models Evaluated**
 
-The best performing model is Logistic Regression with Sentence Transformer embeddings and domain name feature with an accuracy of 62.5%.
+* Logistic Regression
+* Linear SVM
+* Random Forest
+* Multinomial Naive Bayes (TF-IDF only)
 
-But this is very low.
+---
 
-I need more data to train the models better. Currently I have only around 400 bookmarks which is very less for multi-class classification with around 20 categories.
+## **Results**
 
-## Lessons Learned
-- Always start with simple models for comparison.
-- Bias-Variance Tradeoff: Instead of using complex models, focus on better feature representation.
-- You need around 2000-5000 data in total for NLP tasks for better performance.
+### **TF-IDF Baseline**
 
-## Conclusion
-Need more data
+| Model               | Accuracy |
+| ------------------- | -------- |
+| Multinomial NB      | 20%      |
+| Logistic Regression | 37.5%    |
+| Linear SVC          | 45%      |
+| Random Forest       | 40%      |
 
-## TODO
-- [ ] Arange the code into proper format (from .ipyynb to .py files)
-- [ ] Arange the .ipynb files into proper sections
+### **Sentence Transformer Embeddings**
+
+| Model               | Accuracy |
+| ------------------- | -------- |
+| Logistic Regression | 52.5%    |
+| Linear SVC          | 57.5%    |
+| Random Forest       | 47.5%    |
+
+### **Sentence Transformers + Domain Feature**
+
+| Model                   | Accuracy  |
+| ----------------------- | --------- |
+| **Logistic Regression** | **62.5%** |
+| Linear SVC              | 55%       |
+| Random Forest           | 37.5%     |
+
+**Best model:** Logistic Regression with SentenceTransformer embeddings + domain feature
+**Current limitation:** Only ~400 bookmarks across ~20 categories → insufficient for higher accuracy.
+
+---
+
+## **Key Takeaways**
+
+* Feature representation matters more than model complexity
+* Dense embeddings outperform sparse TF-IDF for small datasets
+* Multi-class NLP tasks require significantly more data (typically 2k–5k+ samples)
+
+---
+
+## **Future Work**
+
+* [ ] Restructure the project into proper Python modules (`.py` files)
+* [ ] Organize notebooks into clean, logical sections
+* [ ] Collect more labeled bookmark data
+* [ ] Experiment with stronger embedding models or fine-tuning
+
+---
